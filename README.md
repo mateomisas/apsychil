@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Mateo Misas
-- 👀 I’m interested in web development and frontend...
-- 🌱 I’m currently learning javascript...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: mateomisas97@gmail.com
+- 👋 Hi, I’m Mateo Misas, a data science student located in Colombia 🇨🇴. I started studying Psychology at EAFIT University then slowly got interested in coding and data analysis and data science.
+- 🇺🇸 I'm a B2 speaking level.
+- 🌱 I’m currently learning python and pandas library
+- 📫 You can reach me at: mateomisas97@gmail.com
 
 <!---
 apsychil/apsychil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
