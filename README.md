@@ -2,6 +2,7 @@
 - 🇺🇸 I'm a B2 speaking level.
 - 🌱 I’m currently learning python and pandas library
 - 📫 You can reach me at: mateomisas97@gmail.com
+- 🌐 Get to know me more: https://apsychil.github.io/
 
 <!---
 apsychil/apsychil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
