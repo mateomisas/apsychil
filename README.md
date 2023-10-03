@@ -1,6 +1,5 @@
 # 💫 About Me:
-🐍 Currently working with Python on the back end, using frameworks such as Django, Flask and FastAPI<br>🤖 I also have experience with Data Analysis (pandas, matplotlib, seaborn) and ML (scikit-learn, tensorflow)<br>🗨️ I'm a B2 speaking level.<br>🧠 Fun fact: I'm also a Cognitive Scientist.<br>📫 You can reach me at: mateomisasg@gmail.com
-
+🐍 Currently working as DevOps and Python on the back end<br>🗨️ I'm a B2 speaking level.<br>🧠 Fun fact: I'm also a Cognitive Scientist.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateo-misas-guerra-307036178/) 
