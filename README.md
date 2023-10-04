@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐍 Currently working as DevOps and Python on the back end<br>🗨️ I'm a B2 speaking level.<br>🧠 Fun fact: I'm also a Cognitive Scientist.<br>
+🐍 Currently working as DevOps and Python on the back end<br>🧠 Fun fact: I'm also a Cognitive Scientist.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateo-misas-guerra-307036178/) 
